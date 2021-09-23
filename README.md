@@ -5,14 +5,20 @@
   
 
 <!-- OVERVIEW -->
-### Overview
-This repository stores my code solutions about data structures and algorithms that I learned while interning at FPT Telecom - IoT lab. The solutioin code will be divided into specifically named folders, in each code solution will contain a specific path linking to problems on Codeforces, Hackerrank, uva, spoj.... 
-My roadmap:
-#### Week 1
+## Overview
+This repository stores my code solutions about data structures and algorithms that I learned while interning at FPT Telecom - IoT lab. The solutioin code will be divided into specifically named folders, in each code solution will contain a specific path linking to problems on Codeforces, Hackerrank, uva, spoj...<br>
+## My roadmap:
+### Week 1
 Learn how to evaluate and analyze the complexity of the Algorithmic Complexity (Algorithmic Complexity)
-#### Week 2
+### Week 2
+### Week 3
+### Week 4
+### Week 5
+### Week 6
+### Week 7
+### Week 8
 
-### Project Structure
+## Project Structure
 
 ```
 ├── README.md              		: Description of the repository
