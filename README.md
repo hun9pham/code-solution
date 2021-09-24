@@ -25,8 +25,8 @@ Find path in graph algorithms:
 * Dijkstra algorithms: Find the shortest paths from the source to all vertices in the weighted graph (using Heap - priority_queue in STL library) - Time complexity: O(ElogV).
 ### Week 6
 Continue about find path in graph algorithms:
-* Bellman-Ford: Find shortest paths from source to all vertices in the given graph. The graph may contain negative weight edges. - Time complexity: O(E.V).
-* Floyd-Warshall: Find shortest distances between every pair of vertices in a given edge weighted directed graph - Time complexity: O(n^3).
+* Bellman - Ford: Find shortest paths from source to all vertices in the given graph. The graph may contain negative weight edges. - Time complexity: O(E.V).
+* Floyd - Warshall: Find shortest distances between every pair of vertices in a given edge weighted directed graph - Time complexity: O(n^3).
 ### Week 7
 Searching algorithms:
 * Binary search.
