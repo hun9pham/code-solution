@@ -9,8 +9,19 @@
 This repository stores my code solutions about data structures and algorithms that I learned while interning at FPT Telecom - IoT lab. The solutioin code will be divided into specifically named folders, in each code solution will contain a specific path linking to problems on Codeforces, Hackerrank, uva, spoj...<br>
 ## Roadmap
 ### Week 1
-Learn how to evaluate and analyze the complexity of the Algorithmic Complexity (Algorithmic Complexity)
+Learn how to evaluate and analyze the complexity of the Algorithmic Complexity (Algorithmic Complexity).
 ### Week 2
+Data structures:
+* Linked List
+* Stack & Queue
+* String
+Sorting algorithm:
+* Selection sort
+* Insertion sort
+* Bubble sort
+* Merge sort
+* Quick sort
+Besides learning the implementation and operation of the above basic data structures and algorithms, knowing how to use the STL (Standard Template Library) library from C++ is also essential to be able to solve the problems convenient. 
 ### Week 3
 ### Week 4
 ### Week 5
