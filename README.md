@@ -11,16 +11,8 @@ This repository stores my code solutions about data structures and algorithms th
 ### Week 1
 Learn how to evaluate and analyze the complexity of the Algorithmic Complexity (Algorithmic Complexity).
 ### Week 2
-Data structures:
-* Linked List
-* Stack & Queue
-* String
-Sorting algorithm:
-* Selection sort
-* Insertion sort
-* Bubble sort
-* Merge sort
-* Quick sort
+Basic data structures like: Linked List, Stack & Queue, String.<br>
+Sorting algorithm: Selection sort, Insertion sort, Bubble sort, Merge sort, Quick sort.<br>
 Besides learning the implementation and operation of the above basic data structures and algorithms, knowing how to use the STL (Standard Template Library) library from C++ is also essential to be able to solve the problems convenient. 
 ### Week 3
 ### Week 4
